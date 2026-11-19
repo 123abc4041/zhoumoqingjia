@@ -7,5 +7,5 @@
        → anon public key      → 填到 SUPABASE_ANON_KEY
          （注意：是 anon，不是 service_role）
    ============================================================ */
-const SUPABASE_URL      = "__https://ofxqviwdmeslmmousrcu.supabase.co";
-const SUPABASE_ANON_KEY = "_sb_publishable_b3vnuOLZ1BEb3YE86BH4HQ_of2T4jmh__";
+const SUPABASE_URL      = "https://ofxqviwdmeslmmousrcu.supabase.co";
+const SUPABASE_ANON_KEY = "sb_publishable_b3vnuOLZ1BEb3YE86BH4HQ_of2T4jmh";
