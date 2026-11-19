@@ -8,4 +8,4 @@
          （注意：是 anon，不是 service_role）
    ============================================================ */
 const SUPABASE_URL      = "https://ofxqviwdmeslmmousrcu.supabase.co";
-const SUPABASE_ANON_KEY = "sb_publishable_b3vnuOLZ1BEb3YE86BH4HQ_of2T4jmh";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9meHF2aXdkbWVzbG1tb3VzcmN1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTUwODA0NTIsImV4cCI6MjExMDY1NjQ1Mn0.r-3isHIG3MLALO8Yy1fGv3GrWIzsLg3lAbdE92ambM4";
